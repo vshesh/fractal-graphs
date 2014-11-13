@@ -47,3 +47,6 @@
 *.hg filter=lfs diff=lfs merge=lfs -text
 *. filter=lfs diff=lfs merge=lfs -text
 *.tree filter=lfs diff=lfs merge=lfs -text
+*.hgignore filter=lfs diff=lfs merge=lfs -text
+*.hgtags filter=lfs diff=lfs merge=lfs -text
+*.net filter=lfs diff=lfs merge=lfs -text
