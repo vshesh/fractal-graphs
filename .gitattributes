@@ -51,3 +51,5 @@
 *.hgtags filter=lfs diff=lfs merge=lfs -text
 *.net filter=lfs diff=lfs merge=lfs -text
 *.dat filter=lfs diff=lfs merge=lfs -text
+*.c filter=lfs diff=lfs merge=lfs -text
+*.html filter=lfs diff=lfs merge=lfs -text
