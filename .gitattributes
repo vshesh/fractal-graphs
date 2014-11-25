@@ -57,3 +57,7 @@
 *.pxd filter=lfs diff=lfs merge=lfs -text
 *.pyx filter=lfs diff=lfs merge=lfs -text
 *.pyxdep filter=lfs diff=lfs merge=lfs -text
+*.plt filter=lfs diff=lfs merge=lfs -text
+*.tab filter=lfs diff=lfs merge=lfs -text
+*.gexf filter=lfs diff=lfs merge=lfs -text
+*.bash filter=lfs diff=lfs merge=lfs -text
