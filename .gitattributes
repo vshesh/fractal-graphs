@@ -62,3 +62,6 @@
 *.gexf filter=lfs diff=lfs merge=lfs -text
 *.bash filter=lfs diff=lfs merge=lfs -text
 *.ungraph_kr filter=lfs diff=lfs merge=lfs -text
+*.status filter=lfs diff=lfs merge=lfs -text
+*.Plo filter=lfs diff=lfs merge=lfs -text
+*.Po filter=lfs diff=lfs merge=lfs -text
