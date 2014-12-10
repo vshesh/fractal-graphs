@@ -66,3 +66,7 @@
 *.Plo filter=lfs diff=lfs merge=lfs -text
 *.Po filter=lfs diff=lfs merge=lfs -text
 *.txt~4fb72c4c1da1773f28895afa49de40ba2006ce47 filter=lfs diff=lfs merge=lfs -text
+*.aux filter=lfs diff=lfs merge=lfs -text
+*.bbl filter=lfs diff=lfs merge=lfs -text
+*.tex filter=lfs diff=lfs merge=lfs -text
+*.bib filter=lfs diff=lfs merge=lfs -text
